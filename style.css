@@ -2,5 +2,12 @@ button{
     border-radius: 0.4rem;
     margin: 0.4rem;
     width: 12rem;
-   padding: 1rem;
+   padding: 0.7rem;
+}
+
+input{
+    padding: 0.4rem;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
 }
